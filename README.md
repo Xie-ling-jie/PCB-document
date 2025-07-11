@@ -4,7 +4,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -31,7 +31,7 @@ layout:
 
 <mark style="color:blue;">V2.0.0</mark>: 版本序列號
 
-## 各種 URL:
+## 各種 URL
 
 * [我在這裡](https://www.youtube.com/@Xie_ling_jie) (YT)
 * [或許也會在這裡](https://app.gitbook.com/o/ZqrdqM1PXHDeEwGhmmn9/s/vDGtj1WZO4E32AHG6cvQ/) (FB)
