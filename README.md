@@ -14,14 +14,14 @@
 
 <mark style="color:red;">P2</mark>: 第幾個專案
 
-<mark style="color:purple;">.1</mark>: 該專案第幾個生產批次
+<mark style="color:purple;">.1</mark>: 該專案的第幾個生產批次
 
 <mark style="color:blue;">V2.0.0</mark>: 第幾個版本
 
 ### 各種 URL:
 
-* [我在這裡](https://www.youtube.com/@Xie_ling_jie)
-* [或許也會在這裡](https://app.gitbook.com/s/vDGtj1WZO4E32AHG6cvQ/)
-* [文檔網頁](https://xie-ling-technology.gitbook.io/pcb-r-and-d-center)
-* [github](https://github.com/Xie-ling-jie/PCB-document)
+* [我在這裡](https://www.youtube.com/@Xie_ling_jie) (YT)
+* [或許也會在這裡](https://app.gitbook.com/s/vDGtj1WZO4E32AHG6cvQ/) (FB)
+* [文檔網頁](https://xie-ling-technology.gitbook.io/pcb-r-and-d-center) (gitbook)
+* [github](https://github.com/Xie-ling-jie/PCB-document) (github)
 
