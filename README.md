@@ -25,7 +25,7 @@ layout:
 
 <mark style="color:green;">QPTIG</mark>: 專案名稱
 
-<mark style="color:red;">P2</mark>: 專案號
+<mark style="color:red;">P2</mark>: 專案號 (Prototype)
 
 <mark style="color:purple;">.1</mark>: 該專案的生產批次
 
