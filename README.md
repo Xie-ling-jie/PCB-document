@@ -17,9 +17,9 @@ layout:
 
 ### 這裡放著邪靈科技的 PCB 文檔與介紹
 
-## 版本控制介紹:
+## 版本控制介紹
 
-#### <mark style="color:yellow;">X</mark>\_<mark style="color:green;">QPTIG</mark>\_<mark style="color:red;">P2</mark><mark style="color:purple;">.1</mark>\_<mark style="color:blue;">V2.0.0</mark>
+### <mark style="color:yellow;">X</mark>\_<mark style="color:green;">QPTIG</mark>\_<mark style="color:red;">P2</mark><mark style="color:purple;">.1</mark>\_<mark style="color:blue;">V2.0.0</mark>
 
 <mark style="color:yellow;">X</mark>: 我的首字母
 
