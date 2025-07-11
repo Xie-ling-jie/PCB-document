@@ -4,8 +4,6 @@
 
 ## QC & PD 電壓控制器
 
-***
-
 * [電壓激發電路 V2](dian-ya-ji-fa-dian-lu-v2.md)
 * [電壓激發電路 V3](dian-ya-ji-fa-dian-lu-v3.md)
 
