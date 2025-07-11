@@ -14,5 +14,6 @@ layout:
     visible: true
 ---
 
-# 複合型開發板 V1
+# 複合開發板 V1
 
+ID: v4.1.0
