@@ -2,15 +2,21 @@
 
 ## 這裡放著邪靈科技的 PCB 文檔與介紹
 
+
+
 ### 版本控制介紹:
 
-#### <mark style="color:yellow;">X</mark>\_<mark style="color:green;">QPTIG</mark>\_<mark style="color:red;">P2</mark>.<mark style="color:orange;">1</mark>\_<mark style="color:blue;">V2.0.0</mark>
+#### <mark style="color:yellow;">X</mark>\_<mark style="color:green;">QPTIG</mark>\_<mark style="color:red;">P2</mark><mark style="color:purple;">.</mark>1\_<mark style="color:blue;">V2.0.0</mark>
 
-X
+x: 我的首字母
 
-QPTIG
+QPTIG: 專案名稱
 
+P2: 第幾個專案
 
+.1: 該專案第幾個生產批次
+
+V2.0.0: 第幾個版本
 
 ### 各種 URL:
 
