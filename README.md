@@ -18,6 +18,8 @@
 
 <mark style="color:blue;">V2.0.0</mark>: 版本序列號
 
+***
+
 ### 各種 URL:
 
 * [我在這裡](https://www.youtube.com/@Xie_ling_jie) (YT)
