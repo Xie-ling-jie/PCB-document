@@ -15,6 +15,6 @@
 
 * [複合開發板 V1](stm32-kai-fa-ban/fu-he-xing-kai-fa-ban-v1.md)
 
-## LED 照明燈
+## LED 照明系統
 
-* [可充電緊急照明系統 V1](led-zhao-ming-deng/ke-chong-dian-jin-ji-zhao-ming-deng-v1.md)
+* [可充電緊急照明系統 V1](led-zhao-ming-xi-tong/ke-chong-dian-jin-ji-zhao-ming-deng-v1.md)
