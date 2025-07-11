@@ -1,8 +1,21 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # 歡迎來到邪靈 PCB 科技
 
 ### 這裡放著邪靈科技的 PCB 文檔與介紹
-
-
 
 ## 版本控制介紹:
 
@@ -23,7 +36,6 @@
 ## 各種 URL:
 
 * [我在這裡](https://www.youtube.com/@Xie_ling_jie) (YT)
-* [或許也會在這裡](https://app.gitbook.com/s/vDGtj1WZO4E32AHG6cvQ/) (FB)
+* [或許也會在這裡](https://app.gitbook.com/o/ZqrdqM1PXHDeEwGhmmn9/s/vDGtj1WZO4E32AHG6cvQ/) (FB)
 * [文檔網頁](https://xie-ling-technology.gitbook.io/pcb-r-and-d-center) (gitbook)
 * [github](https://github.com/Xie-ling-jie/PCB-document) (github)
-
