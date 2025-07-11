@@ -34,6 +34,6 @@ layout:
 ## 各種 URL
 
 * [我在這裡](https://www.youtube.com/@Xie_ling_jie) (YT)
-* [或許也會在這裡](https://app.gitbook.com/o/ZqrdqM1PXHDeEwGhmmn9/s/vDGtj1WZO4E32AHG6cvQ/) (FB)
+* [或許也會在這裡](https://www.facebook.com/people/%E9%82%AA%E9%9D%88%E7%9A%84%E4%B8%96%E7%95%8C/100079129524809/) (FB)
 * [文檔網頁](https://xie-ling-technology.gitbook.io/pcb-r-and-d-center) (gitbook)
 * [程式網頁](https://github.com/Xie-ling-jie/PCB-document) (github)
