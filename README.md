@@ -12,11 +12,11 @@
 
 <mark style="color:green;">QPTIG</mark>: 專案名稱
 
-<mark style="color:red;">P2</mark>: 第幾個專案
+<mark style="color:red;">P2</mark>: 專案號
 
-<mark style="color:purple;">.1</mark>: 該專案的第幾個生產批次
+<mark style="color:purple;">.1</mark>: 該專案的生產批次
 
-<mark style="color:blue;">V2.0.0</mark>: 第幾個版本
+<mark style="color:blue;">V2.0.0</mark>: 版本序列號
 
 ### 各種 URL:
 
