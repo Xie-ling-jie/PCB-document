@@ -6,17 +6,17 @@
 
 ### 版本控制介紹:
 
-#### <mark style="color:yellow;">X</mark>\_<mark style="color:green;">QPTIG</mark>\_<mark style="color:red;">P2</mark><mark style="color:purple;">.</mark>1\_<mark style="color:blue;">V2.0.0</mark>
+#### <mark style="color:yellow;">X</mark>\_<mark style="color:green;">QPTIG</mark>\_<mark style="color:red;">P2</mark><mark style="color:purple;">.1</mark>\_<mark style="color:blue;">V2.0.0</mark>
 
-x: 我的首字母
+<mark style="color:yellow;">X</mark>: 我的首字母
 
-QPTIG: 專案名稱
+<mark style="color:green;">QPTIG</mark>: 專案名稱
 
-P2: 第幾個專案
+<mark style="color:red;">P2</mark>: 第幾個專案
 
-.1: 該專案第幾個生產批次
+<mark style="color:purple;">.1</mark>: 該專案第幾個生產批次
 
-V2.0.0: 第幾個版本
+<mark style="color:blue;">V2.0.0</mark>: 第幾個版本
 
 ### 各種 URL:
 
