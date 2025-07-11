@@ -1,6 +1,6 @@
 # Table of contents
 
-* [歡迎來到邪靈 PCB 科技](README.md)
+* [邪靈 PCB 科技研發中心](README.md)
 
 ## QC & PD 電壓控制器
 
