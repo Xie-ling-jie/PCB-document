@@ -16,4 +16,6 @@ layout:
 
 # QC 精確電壓控制器 V2
 
-ID: v3.2.0
+ID: X\_QCPVRC\_P4.1\_V1.0.0&#x20;
+
+(QC Precision Voltage Regulation Controller)
