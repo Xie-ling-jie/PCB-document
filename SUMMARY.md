@@ -13,7 +13,7 @@
 
 ## STM32 開發板
 
-* [複合型開發板 V1](stm32-kai-fa-ban/fu-he-xing-kai-fa-ban-v1.md)
+* [複合開發板 V1](stm32-kai-fa-ban/fu-he-xing-kai-fa-ban-v1.md)
 
 ## LED 照明燈
 
