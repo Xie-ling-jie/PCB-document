@@ -4,11 +4,13 @@
 
 ### 版本控制介紹:
 
-X\_QPTIG\_P2.1\_V2.0.0&#x20;
+#### <mark style="color:yellow;">X</mark>\_<mark style="color:green;">QPTIG</mark>\_<mark style="color:red;">P2</mark>.<mark style="color:orange;">1</mark>\_<mark style="color:blue;">V2.0.0</mark>
 
-> x: 我的首字母
->
-> Q
+ㄥ
+
+QPTIG
+
+
 
 ### 各種 URL:
 
