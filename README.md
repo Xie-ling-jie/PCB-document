@@ -1,18 +1,3 @@
----
-icon: atom
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
----
 
 # 歡迎來到邪靈 PCB 科技
 
