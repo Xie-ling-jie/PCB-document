@@ -19,17 +19,17 @@ layout:
 
 ## 版本控制介紹
 
-### <mark style="color:yellow;">X</mark>\_<mark style="color:green;">QPTIG</mark>\_<mark style="color:red;">P2</mark><mark style="color:purple;">.1</mark>\_<mark style="color:blue;">V2.0.0</mark>
+### <mark style="color:yellow;">X</mark>\_<mark style="color:green;">OOOO</mark>\_<mark style="color:red;">P0</mark><mark style="color:purple;">.1</mark>\_<mark style="color:blue;">V1.0.0</mark>
 
 <mark style="color:yellow;">X</mark>: 我的首字母
 
-<mark style="color:green;">QPTIG</mark>: 專案名稱
+<mark style="color:green;">OOOO</mark>: 專案名稱
 
-<mark style="color:red;">P2</mark>: 專案號 (Prototype)
+<mark style="color:red;">P0</mark>: 專案號 (Prototype)
 
 <mark style="color:purple;">.1</mark>: 該專案的生產批次
 
-<mark style="color:blue;">V2.0.0</mark>: 版本序列號
+<mark style="color:blue;">V1.0.0</mark>: 版本序列號
 
 ## 各種 URL
 
